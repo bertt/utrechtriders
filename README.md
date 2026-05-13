@@ -10,7 +10,7 @@ Inspired by [londonriders](https://anita.garden/londonriders/) by [anita](https:
 
 ## Screenshot
 
-> *(moving transit bubbles on a dark map of Utrecht)*
+<img width="1140" height="644" alt="utrechtriders" src="https://github.com/user-attachments/assets/d9f8dce6-8173-475c-ad46-1f0b45458b66" />
 
 ---
 
